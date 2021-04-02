@@ -22,7 +22,6 @@ public class PlayerController : TacticsMove
         {
             return;
         }
-
         if (!moving)
         {
             FindSelectableTiles();
@@ -146,4 +145,5 @@ public class PlayerController : TacticsMove
 
 internal class SelectionFieldAttribute : Attribute
 {
+
 }

@@ -13,6 +13,8 @@ public class TurnManager : MonoBehaviour
 
     public Animator animator;
 
+    public TurnManager instance { get; private set; }
+
     //this turn manager is designed to be team based, one at a time
 
     void Update () 
@@ -46,6 +48,18 @@ public class TurnManager : MonoBehaviour
             turnTeam.Peek().BeginTurn();
         }
     }
+
+    void Awake()
+    {
+        instance = this;
+    }
+
+    public static void BattleTurn()
+    {
+        Debug.Log("Test Battlet");
+        //EndTurn();
+    }
+
 
     public static void EndTurn()
     {

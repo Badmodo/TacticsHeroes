@@ -186,10 +186,20 @@ public class TacticsMove : MonoBehaviour
 
             //Add combat logic here, before end turn
             //sometimes you can just attack withough moving or defending, think about that
+            StartCoroutine(TestBattle());
 
-            TurnManager.EndTurn();
+            //TurnManager.BattleTurn();
+            //TurnManager.EndTurn();
         }
     }
+
+    IEnumerator TestBattle()
+    {
+        Debug.Log("Test Battlet");
+        yield return new WaitForSeconds(0.1f);
+        //TurnManager.EndTurn();
+    }
+
 
     protected void RemoveSelectableTiles()
     {

@@ -321,9 +321,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &31302562
 GameObject:
@@ -444,9 +444,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &32654353
 GameObject:
@@ -567,9 +567,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &36887945
 GameObject:
@@ -690,9 +690,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &59857273
 GameObject:
@@ -947,9 +947,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &67973185
 GameObject:
@@ -1180,9 +1180,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &91036961
 GameObject:
@@ -1303,9 +1303,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &96312755
 GameObject:
@@ -1426,9 +1426,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &105294104
 GameObject:
@@ -1549,9 +1549,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &105855953
 GameObject:
@@ -1672,9 +1672,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &106976379
 GameObject:
@@ -1795,9 +1795,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &107224826
 GameObject:
@@ -1856,9 +1856,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &107224829
 MeshRenderer:
@@ -1979,9 +1979,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &115903957
 MeshRenderer:
@@ -2164,9 +2164,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &159897193
 GameObject:
@@ -2287,9 +2287,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &167003899
 GameObject:
@@ -2410,9 +2410,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &169856098
 GameObject:
@@ -2533,9 +2533,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &175545095
 GameObject:
@@ -2656,9 +2656,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &175718166
 GameObject:
@@ -2913,9 +2913,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &192893701
 GameObject:
@@ -2974,9 +2974,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &192893704
 MeshRenderer:
@@ -3159,9 +3159,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &223958551
 GameObject:
@@ -3282,9 +3282,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &238953619
 GameObject:
@@ -3448,9 +3448,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &246574000
 GameObject:
@@ -3571,9 +3571,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &248248003
 GameObject:
@@ -3632,9 +3632,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &248248006
 MeshRenderer:
@@ -3817,9 +3817,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &275188166
 GameObject:
@@ -3940,9 +3940,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &303185263
 GameObject:
@@ -4063,9 +4063,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &335621031
 GameObject:
@@ -4228,9 +4228,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &362696664
 GameObject:
@@ -4351,9 +4351,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &364383674
 GameObject:
@@ -4474,9 +4474,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &371011553
 GameObject:
@@ -4597,9 +4597,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &383599987
 GameObject:
@@ -4720,9 +4720,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &413411548
 GameObject:
@@ -4843,9 +4843,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &417819381
 GameObject:
@@ -4966,9 +4966,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &420960482
 GameObject:
@@ -5089,9 +5089,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &428868108
 GameObject:
@@ -5212,9 +5212,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &429505997
 GameObject:
@@ -5377,9 +5377,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &442461029
 GameObject:
@@ -5482,9 +5482,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &444032377
 MeshRenderer:
@@ -5667,9 +5667,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &481687132
 GameObject:
@@ -5790,9 +5790,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &491744499
 GameObject:
@@ -5913,9 +5913,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &491875757
 GameObject:
@@ -6036,9 +6036,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &493070007
 GameObject:
@@ -6293,9 +6293,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &498290156
 GameObject:
@@ -6416,9 +6416,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &511566583
 GameObject:
@@ -6539,9 +6539,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &532966472
 GameObject:
@@ -6662,10 +6662,109 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
+--- !u!1001 &538980665
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261913, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: m_Name
+      value: Player (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: maxHp
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: attack
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: defense
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: playerTurnUI
+      value: 
+      objectReference: {fileID: 1612420891}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: specialAttack
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: specialDefense
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53c46b806d5b29c43ada89a0a2116305, type: 3}
 --- !u!1 &545639329
 GameObject:
   m_ObjectHideFlags: 0
@@ -6723,9 +6822,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &545639332
 MeshRenderer:
@@ -6908,9 +7007,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &567020588
 GameObject:
@@ -7031,9 +7130,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &576119652
 GameObject:
@@ -7092,9 +7191,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &576119655
 MeshRenderer:
@@ -7215,9 +7314,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &577006571
 MeshRenderer:
@@ -7400,9 +7499,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &596682491
 GameObject:
@@ -7523,9 +7622,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &599540865
 GameObject:
@@ -7646,9 +7745,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &609115667
 GameObject:
@@ -7769,9 +7868,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &611391269
 GameObject:
@@ -7892,9 +7991,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &646634928
 GameObject:
@@ -8015,9 +8114,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &647019314
 GameObject:
@@ -8138,9 +8237,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!114 &685520101 stripped
 MonoBehaviour:
@@ -8273,9 +8372,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &707877111
 GameObject:
@@ -8334,9 +8433,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &707877114
 MeshRenderer:
@@ -8519,9 +8618,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &741191011
 GameObject:
@@ -8642,9 +8741,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &790928621
 GameObject:
@@ -8765,9 +8864,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &803886521
 GameObject:
@@ -8888,9 +8987,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &805779182
 GameObject:
@@ -9011,9 +9110,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &810696098
 GameObject:
@@ -9268,9 +9367,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &835030137
 GameObject:
@@ -9391,9 +9490,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &835491615
 GameObject:
@@ -9514,10 +9613,16 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
+--- !u!95 &837166316 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 8203858386934953125, guid: 53c46b806d5b29c43ada89a0a2116305,
+    type: 3}
+  m_PrefabInstance: {fileID: 538980665}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &864569860
 GameObject:
   m_ObjectHideFlags: 0
@@ -9637,9 +9742,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &867086982
 GameObject:
@@ -9802,9 +9907,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &875316450
 GameObject:
@@ -9925,9 +10030,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &883498131
 GameObject:
@@ -10048,9 +10153,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &893777814
 GameObject:
@@ -10171,9 +10276,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &896146991
 GameObject:
@@ -10427,9 +10532,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &932611319
 GameObject:
@@ -10550,9 +10655,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &943316951
 GameObject:
@@ -10673,9 +10778,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &984532242
 GameObject:
@@ -10796,9 +10901,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &985730613
 GameObject:
@@ -10857,9 +10962,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &985730616
 MeshRenderer:
@@ -11042,9 +11147,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1026936440
 GameObject:
@@ -11165,9 +11270,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1043911374
 GameObject:
@@ -11288,9 +11393,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1047957972
 GameObject:
@@ -11411,9 +11516,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1047977403
 GameObject:
@@ -11534,9 +11639,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1064799731
 GameObject:
@@ -11657,9 +11762,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1066960770
 GameObject:
@@ -11780,9 +11885,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1070462482
 GameObject:
@@ -11903,9 +12008,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1078423801
 GameObject:
@@ -12026,9 +12131,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1089934285
 GameObject:
@@ -12149,9 +12254,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1093243812
 GameObject:
@@ -12405,9 +12510,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1114196799
 GameObject:
@@ -12528,9 +12633,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1125623431
 GameObject:
@@ -12682,9 +12787,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1151282423
 GameObject:
@@ -13071,9 +13176,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1160646557
 GameObject:
@@ -13194,9 +13299,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1169885736
 GameObject:
@@ -13317,9 +13422,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1192160299
 GameObject:
@@ -13440,9 +13545,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!850595691 &1196008733
 LightingSettings:
@@ -13624,9 +13729,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1199241332
 GameObject:
@@ -13747,9 +13852,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1214547309
 GameObject:
@@ -13870,9 +13975,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1220055873
 GameObject:
@@ -14127,9 +14232,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1241203205
 GameObject:
@@ -14188,9 +14293,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1241203208
 MeshRenderer:
@@ -14373,9 +14478,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1253697706
 GameObject:
@@ -14538,9 +14643,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1271050165
 GameObject:
@@ -14661,9 +14766,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1277838338
 GameObject:
@@ -14694,7 +14799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82128c4b3232e2a4ba38d75f484464e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 1911831325}
+  animator: {fileID: 837166316}
 --- !u!4 &1277838340
 Transform:
   m_ObjectHideFlags: 0
@@ -14766,9 +14871,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1307761871
 MeshRenderer:
@@ -14951,9 +15056,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1314797683
 GameObject:
@@ -15074,9 +15179,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1315058130
 GameObject:
@@ -15197,9 +15302,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1317847063
 GameObject:
@@ -15320,9 +15425,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1324237216
 GameObject:
@@ -15381,9 +15486,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1324237219
 MeshRenderer:
@@ -15566,9 +15671,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1362762261
 GameObject:
@@ -15627,9 +15732,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1362762264
 MeshRenderer:
@@ -15812,9 +15917,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1365583784
 GameObject:
@@ -15935,9 +16040,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1367627700
 GameObject:
@@ -15996,9 +16101,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1367627703
 MeshRenderer:
@@ -16181,9 +16286,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1386509356
 GameObject:
@@ -16242,9 +16347,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1386509359
 MeshRenderer:
@@ -16427,9 +16532,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1391392945
 GameObject:
@@ -16550,9 +16655,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1392386065
 GameObject:
@@ -16673,9 +16778,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1400795235
 GameObject:
@@ -16796,9 +16901,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1407342388
 GameObject:
@@ -16919,9 +17024,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1409208193
 GameObject:
@@ -17207,9 +17312,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1457310552
 GameObject:
@@ -17386,9 +17491,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1466386066
 GameObject:
@@ -17447,9 +17552,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1466386069
 MeshRenderer:
@@ -17570,9 +17675,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1481513065
 MeshRenderer:
@@ -17798,9 +17903,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1500815129
 GameObject:
@@ -17921,9 +18026,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1509759499
 GameObject:
@@ -18044,9 +18149,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1510202603
 GameObject:
@@ -18201,9 +18306,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1525042510
 GameObject:
@@ -18324,9 +18429,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1528770084
 GameObject:
@@ -18447,9 +18552,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1545794498
 GameObject:
@@ -18570,9 +18675,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1546502404
 GameObject:
@@ -18693,9 +18798,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1550185530
 GameObject:
@@ -19045,9 +19150,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1587994869
 GameObject:
@@ -19168,9 +19273,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1599772911
 GameObject:
@@ -19291,9 +19396,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1605673578
 GameObject:
@@ -19352,9 +19457,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1605673581
 MeshRenderer:
@@ -19577,9 +19682,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1624860263
 GameObject:
@@ -19700,9 +19805,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1637249366
 GameObject:
@@ -19823,9 +19928,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1640251246
 GameObject:
@@ -19946,9 +20051,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1648075552
 GameObject:
@@ -20069,9 +20174,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1662995710
 GameObject:
@@ -20192,9 +20297,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1667175506
 GameObject:
@@ -20315,9 +20420,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1675540845
 GameObject:
@@ -20438,9 +20543,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1687548639
 GameObject:
@@ -20561,9 +20666,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1689962736
 GameObject:
@@ -20684,9 +20789,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1712749364
 GameObject:
@@ -20864,9 +20969,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1764448675
 GameObject:
@@ -20987,9 +21092,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1766484311
 GameObject:
@@ -21110,9 +21215,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1772532668
 GameObject:
@@ -21468,9 +21573,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1803434779
 GameObject:
@@ -21529,9 +21634,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1803434782
 MeshRenderer:
@@ -21714,9 +21819,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1826057796
 GameObject:
@@ -21837,9 +21942,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1858535511
 GameObject:
@@ -21942,9 +22047,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &1873296565
 MeshRenderer:
@@ -22101,12 +22206,6 @@ Transform:
   m_Father: {fileID: 1125623432}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!95 &1911831325 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 8203858386934953125, guid: 53c46b806d5b29c43ada89a0a2116305,
-    type: 3}
-  m_PrefabInstance: {fileID: 8110350816856751129}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1959058281
 GameObject:
   m_ObjectHideFlags: 0
@@ -22269,9 +22368,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &1991564867
 GameObject:
@@ -22435,9 +22534,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &2024012825
 GameObject:
@@ -22558,9 +22657,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &2029496614
 GameObject:
@@ -22681,9 +22780,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &2034682610
 GameObject:
@@ -22804,9 +22903,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &2056276633
 GameObject:
@@ -22865,9 +22964,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &2056276636
 MeshRenderer:
@@ -23050,9 +23149,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &2081629494
 GameObject:
@@ -23217,9 +23316,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &2097758710
 GameObject:
@@ -23278,9 +23377,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!23 &2097758713
 MeshRenderer:
@@ -23597,9 +23696,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &2116102294
 GameObject:
@@ -23720,9 +23819,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
-  currentTile: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
-  targetTile: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
-  selectableTile: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 0}
+  currentTile: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+  targetTile: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  selectableTile: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
   nonSelectableTile: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1001 &7139068960053088435
 PrefabInstance:
