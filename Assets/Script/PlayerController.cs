@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class PlayerController : TacticsMove
 {
-
     void Start () 
 	{
         //from the parent Tactics move
@@ -49,11 +48,19 @@ public class PlayerController : TacticsMove
                     if (t.selectable)
                     {
                         MoveToTile(t);
+                        //StartCoroutine(TestBattle());
                     }
                 }
             }
         }
-    }    
+    }
+    //IEnumerator TestBattle()
+    //{
+    //    Debug.Log("Test Battlet in player controller");
+    //    yield return new WaitForSeconds(5f);
+    //    TurnManager.EndTurn();
+    //    //yield return null;
+    //}
 
     #region Combat Variables
 

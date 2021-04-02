@@ -6750,6 +6750,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
         type: 3}
+      propertyPath: BattleUI
+      value: 
+      objectReference: {fileID: 1612420891}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
       propertyPath: playerTurnUI
       value: 
       objectReference: {fileID: 1612420891}
@@ -19538,7 +19543,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1612420892
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23999,6 +24004,11 @@ PrefabInstance:
       propertyPath: defense
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
+        type: 3}
+      propertyPath: BattleUI
+      value: 
+      objectReference: {fileID: 1612420891}
     - target: {fileID: 8110350816799261916, guid: 53c46b806d5b29c43ada89a0a2116305,
         type: 3}
       propertyPath: playerTurnUI

@@ -29,12 +29,17 @@ public class NPCController : TacticsMove
             FindSelectableTiles();
             actualTargetTile.target = true;
             //possibly add in combat here, choose random moves of the 2
+
+            //if(enemy in range random attack)
+            //TurnManager.EndTurn();
         }
         else
         {
             Move();
         }
-	}
+    }
+
+
 
     void CalculatePath()
     {

@@ -49,16 +49,18 @@ public class TurnManager : MonoBehaviour
         }
     }
 
-    void Awake()
-    {
-        instance = this;
-    }
 
-    public static void BattleTurn()
-    {
-        Debug.Log("Test Battlet");
-        //EndTurn();
-    }
+    ////attempts to get attacking phase working
+    //void Awake()
+    //{
+    //    instance = this;
+    //}
+
+    //public static void BattleTurn()
+    //{
+    //    Debug.Log("Test Battlet");
+    //    EndTurn();
+    //}
 
 
     public static void EndTurn()

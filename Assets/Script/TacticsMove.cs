@@ -188,8 +188,13 @@ public class TacticsMove : MonoBehaviour
             //sometimes you can just attack withough moving or defending, think about that
             StartCoroutine(TestBattle());
 
+            //if(!= isPlayer)
+            //{
+            //    ;
+            //}
+
             //TurnManager.BattleTurn();
-            //TurnManager.EndTurn();
+            TurnManager.EndTurn();
         }
     }
 
