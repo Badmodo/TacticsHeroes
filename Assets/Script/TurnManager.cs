@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class TurnManager : MonoBehaviour 
@@ -25,6 +26,23 @@ public class TurnManager : MonoBehaviour
             InitTeamTurnQueue();
         }
 	}
+
+    private void OnGUI()
+    {
+        for (int t = 0; t < units.Count; t++) //For each team
+        {
+            float x = 20 + 400 * t;
+            string k = units.ElementAt(t).Key;
+            GUI.Label(new Rect(x, 20, 400, 20), "===" + k);
+            for (int u = 0; u < units[k].Count; u++) //For each unit in team
+            {
+                TacticsMove unit = units[k][u];
+                float y = 40 + 20 * u;
+                GUI.Label(new Rect(x, y, 200, 20), unit.ToString());
+                GUI.Label(new Rect(x  + 200f, y, 200, 20), unit.state.ToString());
+            }
+        }
+    }
 
     static void InitTeamTurnQueue()
     {
@@ -67,7 +85,7 @@ public class TurnManager : MonoBehaviour
     {
         //each unit takes itself out of the queue
         TacticsMove unit = turnTeam.Dequeue();
-        unit.EndTurn();
+        //unit.EndTurn();
 
         //check if anyother team members have yet to play
         if (turnTeam.Count > 0)
