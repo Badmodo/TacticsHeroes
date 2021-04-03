@@ -11,23 +11,20 @@ public class TurnManager : MonoBehaviour
     //queue for the team whos turn it is, so one team goes at a time
     static Queue<TacticsMove> turnTeam = new Queue<TacticsMove>();
 
-    bool isPlayerTeamTurn;
-
     public Animator animator;
 
     public TurnManager instance { get; private set; }
 
     //this turn manager is designed to be team based, one at a time
 
-
-    
-
-
-
-    void Start () 
+    void Update () 
 	{
-        InitTeamTurnQueue();
-    }
+        //for the first turn
+        if (turnTeam.Count == 0)
+        {
+            InitTeamTurnQueue();
+        }
+	}
 
     static void InitTeamTurnQueue()
     {

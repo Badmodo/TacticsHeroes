@@ -10,6 +10,7 @@ public class TacticsMove : MonoBehaviour
     //the list is collected and cleared in a characters their turn
     List<Tile> selectableTiles = new List<Tile>();    
     //this enables you make them all unselcted
+    GameObject[] tiles;
 
     //calculated in reverse order
     Stack<Tile> path = new Stack<Tile>();
@@ -39,16 +40,13 @@ public class TacticsMove : MonoBehaviour
     bool movingEdge = false;
     Vector3 jumpTarget;
 
-    //Ref
-    TileManager tileManager;
-
     public Tile actualTargetTile;
 
-    protected virtual void Start()
+    protected void Init()
     {
-        tileManager = TileManager.Instance;
-
         //cashes all the tiles into the array
+        tiles = GameObject.FindGameObjectsWithTag("Tile");
+
         halfHeight = GetComponent<Collider>().bounds.extents.y;
 
         //adds unit to dictionay so eventaully it can take its turn
@@ -56,7 +54,13 @@ public class TacticsMove : MonoBehaviour
     }
 
     #region Tile System
-    protected Tile GetTargetTile(GameObject target)
+    public void GetCurrentTile()
+    {
+        currentTile = GetTargetTile(gameObject);
+        currentTile.current = true;
+    }
+
+    public Tile GetTargetTile(GameObject target)
     {
         RaycastHit hit;
         Tile tile = null;
@@ -69,8 +73,18 @@ public class TacticsMove : MonoBehaviour
         return tile;
     }
 
+    public void ComputeAdjacencyLists(float jumpHeight, Tile target)
+    {
+        //tiles = GameObject.FindGameObjectsWithTag("Tile");
 
-    protected void FindSelectableTiles()
+        foreach (GameObject tile in tiles)
+        {
+            Tile t = tile.GetComponent<Tile>();
+            t.FindNeighbors(jumpHeight, target);
+        }
+    }
+
+    public void FindSelectableTiles()
     {
         ComputeAdjacencyLists(jumpHeight, null);
         GetCurrentTile();
@@ -104,7 +118,7 @@ public class TacticsMove : MonoBehaviour
         }
     }
 
-    protected void MoveToTile(Tile tile)
+    public void MoveToTile(Tile tile)
     {
         path.Clear();
         tile.target = true;
@@ -118,7 +132,7 @@ public class TacticsMove : MonoBehaviour
         }
     }
 
-    protected void Move()
+    public void Move()
     {
         if (path.Count > 0)
         {
@@ -184,21 +198,6 @@ public class TacticsMove : MonoBehaviour
         }
     }
 
-    void GetCurrentTile()
-    {
-        currentTile = GetTargetTile(gameObject);
-        currentTile.current = true;
-    }
-
-    void ComputeAdjacencyLists(float jumpHeight, Tile target)
-    {
-        foreach (GameObject tile in tileManager.Tiles)
-        {
-            Tile t = tile.GetComponent<Tile>();
-            t.FindNeighbors(jumpHeight, target);
-        }
-    }
-
     IEnumerator TestBattle()
     {
         Debug.Log("Test Battlet");
@@ -206,7 +205,8 @@ public class TacticsMove : MonoBehaviour
         //TurnManager.EndTurn();
     }
 
-    void RemoveSelectableTiles()
+
+    protected void RemoveSelectableTiles()
     {
         if (currentTile != null)
         {

@@ -6,6 +6,12 @@ public class NPCController : TacticsMove
 {
     //find nearest player tag unit
     GameObject target;
+
+	void Start () 
+	{
+        //computes tiles and whatnot to turnmanager
+        Init();
+	}
 	
 	void Update () 
 	{

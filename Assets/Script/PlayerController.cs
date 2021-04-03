@@ -5,10 +5,10 @@ using UnityEngine;
 
 public class PlayerController : TacticsMove
 {
-    protected override void Start () 
+    void Start () 
 	{
         //from the parent Tactics move
-        base.Start();
+        Init();
         animator.SetBool("isIdle", true);
     }
 
