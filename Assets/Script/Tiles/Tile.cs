@@ -28,28 +28,35 @@ public class Tile : MonoBehaviour
     public Color targetTile;
     public Color selectableTile;
     public Color nonSelectableTile;
-    	
-	void Update () 
+
+    Renderer renderer;
+
+    private void Awake()
+    {
+        renderer = GetComponent<Renderer>();
+    }
+
+    void Update () 
 	{
         //where the character currently resides
         if (current)
         {
-            GetComponent<Renderer>().material.color = currentTile;
+            renderer.material.color = currentTile;
         }
         //where you want to go
         else if (target)
         {
-            GetComponent<Renderer>().material.color = targetTile;
+            renderer.material.color = targetTile;
         }
         //range to where you can move
         else if (selectable)
         {
-            GetComponent<Renderer>().material.color = selectableTile;
+            renderer.material.color = selectableTile;
         }
         //non selectable
         else
         {
-            GetComponent<Renderer>().material.color = nonSelectableTile;
+            renderer.material.color = nonSelectableTile;
         }
 	}
 
