@@ -638,3 +638,68 @@ Received Import Request.
 Start importing Assets/PreFabs/PlayerDruid.prefab using Guid(a3849476074ce14448c566a15aa4f89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f4102c0263bb3e6b972b5b86f60411') in 0.066293 seconds
   Import took 0.079279 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 82.420990 seconds.
+  path: Assets/PreFabs/Health
+  artifactKey: Guid(efa85d58c4c462946bb0b57876a4126f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/Health using Guid(efa85d58c4c462946bb0b57876a4126f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e244a552194c8aa65aa482381ae225') in 0.007292 seconds
+  Import took 0.009251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.848811 seconds.
+  path: Assets/PreFabs/Heros
+  artifactKey: Guid(77145fa58de70f241a81347af2406e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/Heros using Guid(77145fa58de70f241a81347af2406e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9aca7a0971a0aabc482e5ca74351e72') in 0.009397 seconds
+  Import took 0.011819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.291103 seconds.
+  path: Assets/PreFabs/Heros 1
+  artifactKey: Guid(5f78cd56d3746774391f08a2af11ffd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/Heros 1 using Guid(5f78cd56d3746774391f08a2af11ffd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4b09a49a4a003c260f38a3d9f65f2f') in 0.008462 seconds
+  Import took 0.010766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.317884 seconds.
+  path: Assets/PreFabs/Enemies
+  artifactKey: Guid(5f78cd56d3746774391f08a2af11ffd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/Enemies using Guid(5f78cd56d3746774391f08a2af11ffd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b72aeedcd35ba1239bd17dca615f24c') in 0.010699 seconds
+  Import took 0.013478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.238000 seconds.
+  path: Assets/PreFabs/EnemyHealth.prefab
+  artifactKey: Guid(c4ad32c172b785f47b824ef6f57e4091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/EnemyHealth.prefab using Guid(c4ad32c172b785f47b824ef6f57e4091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75730b693ace52378a608a719dec051') in 0.010573 seconds
+  Import took 0.022569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015033 seconds.
+  path: Assets/PreFabs/EnemyHealth.prefab
+  artifactKey: Guid(c4ad32c172b785f47b824ef6f57e4091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/EnemyHealth.prefab using Guid(c4ad32c172b785f47b824ef6f57e4091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75730b693ace52378a608a719dec051') in 0.004653 seconds
+  Import took 0.006587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.594363 seconds.
+  path: Assets/PreFabs/EnemyDemon.prefab
+  artifactKey: Guid(38131a982b8967643a3184d5ca14e1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/EnemyDemon.prefab using Guid(38131a982b8967643a3184d5ca14e1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156886ce94c66f7b89b05ddff3095090') in 0.048194 seconds
+  Import took 0.050850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.457576 seconds.
+  path: Assets/PreFabs/EnemyDragon.prefab
+  artifactKey: Guid(ea86a348039ee7c4ea91043ddd3e1052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/EnemyDragon.prefab using Guid(ea86a348039ee7c4ea91043ddd3e1052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07832607134914e16ad57402a205758') in 0.073763 seconds
+  Import took 0.076826 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
