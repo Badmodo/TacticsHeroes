@@ -30,10 +30,6 @@ public class NPCController : TacticsMove
             CalculatePath();
             FindSelectableTiles();
             actualTargetTile.target = true;
-            //possibly add in combat here, choose random moves of the 2
-
-            //if(enemy in range random attack)
-            //TurnManager.EndTurn();
             GoToState(States.Move);
         }
         else if (state == States.Move)

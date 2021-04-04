@@ -5065,7 +5065,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1277838341}
         m_TargetAssemblyTypeName: CombatMenu, Assembly-CSharp
-        m_MethodName: PressedBtn1
+        m_MethodName: PressedBtn4
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -10144,7 +10144,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1277838341}
         m_TargetAssemblyTypeName: CombatMenu, Assembly-CSharp
-        m_MethodName: PressedBtn1
+        m_MethodName: PressedBtn2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -15244,7 +15244,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CombatAction2
+  m_Text: 'Special Attack '
 --- !u!222 &1274972137
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15296,7 +15296,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1277838341
 MonoBehaviour:
@@ -18738,7 +18738,7 @@ Transform:
   - {fileID: 1557633118}
   - {fileID: 1424965348}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1519643167
 GameObject:
@@ -20186,7 +20186,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CombatAction2
+  m_Text: Item
 --- !u!222 &1615772772
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20757,7 +20757,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CombatAction1
+  m_Text: Attack
 --- !u!222 &1642149282
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20851,7 +20851,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1277838341}
         m_TargetAssemblyTypeName: CombatMenu, Assembly-CSharp
-        m_MethodName: PressedBtn1
+        m_MethodName: PressedBtn3
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -22905,7 +22905,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SkipCombat
+  m_Text: End Combat
 --- !u!222 &1868463249
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24119,7 +24119,7 @@ Transform:
   m_Children:
   - {fileID: 175718171}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2083421585
 GameObject:
@@ -24787,7 +24787,7 @@ PrefabInstance:
     - target: {fileID: 7139068961580888651, guid: 3237612c162b22e42912419335d5ffe6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7139068961580888651, guid: 3237612c162b22e42912419335d5ffe6,
         type: 3}
@@ -24851,7 +24851,7 @@ PrefabInstance:
     - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8110350816799261912, guid: 53c46b806d5b29c43ada89a0a2116305,
         type: 3}

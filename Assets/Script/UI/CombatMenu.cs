@@ -45,23 +45,27 @@ public class CombatMenu : MonoBehaviour
 
     public void PressedBtn1 ()
     {
+        //will be attack
         btnCallback1?.Invoke();
         Hide();
     }
 
     public void PressedBtn2()
     {
+        //will be special attack with a enemry rating
         btnCallback2?.Invoke();
-        Hide();
+        //Hide();
     }
 
     public void PressedBtn3()
     {
+        //will be an item or spell or block
         btnCallback3?.Invoke();
         Hide();
     }
     public void PressedBtn4()
     {
+        //this will skip combat
         btnCallback4?.Invoke();
         Hide();
     }

@@ -9,7 +9,6 @@ public class PlayerController : TacticsMove
 	{
         //from the parent Tactics move
         Init();
-        animator.SetBool("isIdle", true);
     }
 
     void Update ()
@@ -49,26 +48,18 @@ public class PlayerController : TacticsMove
                     {
                         MoveToTile(t);
                         GoToState(States.Move);
-                        //StartCoroutine(TestBattle());
                     }
                 }
             }
         }
     }
-    //IEnumerator TestBattle()
-    //{
-    //    Debug.Log("Test Battlet in player controller");
-    //    yield return new WaitForSeconds(5f);
-    //    TurnManager.EndTurn();
-    //    //yield return null;
-    //}
 
     #region Combat Variables
 
     protected override void Attacks()
     {
         GoToState(States.Combat);
-        combatMenu.DisplayMenu(() => SkipTurn(), () => SkipTurn(), () => SkipTurn(),
+        combatMenu.DisplayMenu(() => Attack(), () => SpecialAttack(), () => SkipTurn(),
             () => SkipTurn());
     }
 
@@ -78,8 +69,6 @@ public class PlayerController : TacticsMove
         TurnManager.EndTurn();
     }
 
-
-
     public void Attack()
     {
         StartCoroutine(attack());
@@ -87,6 +76,8 @@ public class PlayerController : TacticsMove
 
     public IEnumerator attack()
     {
+        //show tiles effected by attack, and alow to change rotation
+
         animator.SetBool("isIdle", false);
         animator.SetBool("isAttacking", true);
         yield return new WaitForSeconds(1.5f);
@@ -94,8 +85,10 @@ public class PlayerController : TacticsMove
         animator.SetBool("isIdle", true);
 
         //attack
-
+        //calculate damage
         //change state based on what happened
+
+        TurnManager.EndTurn();
     }
 
     public void SpecialAttack()
@@ -105,6 +98,8 @@ public class PlayerController : TacticsMove
 
     public IEnumerator attackSpecial()
     {
+        //show tiles effected by attack, and alow to change rotation
+
         animator.SetBool("isIdle", false);
         animator.SetBool("isSpecialAttack", true);
         yield return new WaitForSeconds(1.5f);
@@ -114,6 +109,10 @@ public class PlayerController : TacticsMove
         //special attack 
 
         //change state based on what happened
+        //calculate damage
+        //change state based on what happened
+
+        TurnManager.EndTurn();
     }
 
     public void TakeHit()

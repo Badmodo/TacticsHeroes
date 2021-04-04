@@ -67,25 +67,10 @@ public class TurnManager : MonoBehaviour
         }
     }
 
-
-    ////attempts to get attacking phase working
-    //void Awake()
-    //{
-    //    instance = this;
-    //}
-
-    //public static void BattleTurn()
-    //{
-    //    Debug.Log("Test Battlet");
-    //    EndTurn();
-    //}
-
-
     public static void EndTurn()
     {
         //each unit takes itself out of the queue
         TacticsMove unit = turnTeam.Dequeue();
-        //unit.EndTurn();
 
         //check if anyother team members have yet to play
         if (turnTeam.Count > 0)

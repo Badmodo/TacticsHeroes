@@ -62,6 +62,8 @@ public abstract class TacticsMove : MonoBehaviour
     private void Start()
     {
         combatMenu = CombatMenu.Instance;
+        animator.SetBool("isIdle", true);
+
     }
 
     #region Tile System
