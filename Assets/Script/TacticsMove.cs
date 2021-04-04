@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public abstract class TacticsMove : MonoBehaviour 
 {
@@ -19,11 +20,13 @@ public abstract class TacticsMove : MonoBehaviour
     Tile currentTile;
     public States state { get; private set; } = States.Standby;
 
-    public int maxHp;
     public int attack;
     public int defense;
     public int specialAttack;
-    public int specialDefense;
+
+    public Image healthBar;
+    public float maxHealth;
+    public static float health;
 
     public bool moving = false;
     public int move = 5;
@@ -64,7 +67,32 @@ public abstract class TacticsMove : MonoBehaviour
         combatMenu = CombatMenu.Instance;
         animator.SetBool("isIdle", true);
 
+        //add heath to the healthbar
+        healthBar = GetComponent<Image>();
+        health = maxHealth;
     }
+
+    private void Update()
+    {
+        healthBar.fillAmount = health / maxHealth;
+        //Mathf.Clamp(maxHealth, 0f, maxHealth);
+    }
+
+    public void TakeDamage(float amount)
+    {
+        health -= amount;
+
+        if (health <= 0f)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        Destroy(gameObject);
+    }
+
 
     #region Tile System
     public void GetCurrentTile()
