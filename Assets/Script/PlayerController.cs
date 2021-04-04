@@ -17,16 +17,16 @@ public class PlayerController : TacticsMove
         Debug.DrawRay(transform.position, transform.forward);
 
         //move or cant move based on whos turn
-        if (!turn)
+        if (state == States.Standby)
         {
             return;
         }
-        if (!moving)
+        if (state == States.MoveCalculation)
         {
             FindSelectableTiles();
             CheckMouse();
         }
-        else
+        else if (state == States.Move)
         {
             Move();
         }
@@ -48,6 +48,7 @@ public class PlayerController : TacticsMove
                     if (t.selectable)
                     {
                         MoveToTile(t);
+                        GoToState(States.Move);
                         //StartCoroutine(TestBattle());
                     }
                 }
@@ -63,6 +64,21 @@ public class PlayerController : TacticsMove
     //}
 
     #region Combat Variables
+
+    protected override void Attacks()
+    {
+        GoToState(States.Combat);
+        combatMenu.DisplayMenu(() => SkipTurn(), () => SkipTurn(), () => SkipTurn(),
+            () => SkipTurn());
+    }
+
+    protected void SkipTurn ()
+    {
+        GoToState(States.Standby);
+        TurnManager.EndTurn();
+    }
+
+
 
     public void Attack()
     {

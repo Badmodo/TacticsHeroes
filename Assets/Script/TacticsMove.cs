@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TacticsMove : MonoBehaviour 
+public abstract class TacticsMove : MonoBehaviour 
 {
-    public bool turn = false;
+    public enum States { Standby, Move, Combat, MoveCalculation }
+
+    public bool turn;
     public Animator animator;
 
     //the list is collected and cleared in a characters their turn
@@ -15,6 +17,7 @@ public class TacticsMove : MonoBehaviour
     //calculated in reverse order
     Stack<Tile> path = new Stack<Tile>();
     Tile currentTile;
+    public States state { get; private set; } = States.Standby;
 
     public int maxHp;
     public int attack;
@@ -42,6 +45,8 @@ public class TacticsMove : MonoBehaviour
 
     public Tile actualTargetTile;
 
+    protected CombatMenu combatMenu;
+
     protected void Init()
     {
         //cashes all the tiles into the array
@@ -51,6 +56,12 @@ public class TacticsMove : MonoBehaviour
 
         //adds unit to dictionay so eventaully it can take its turn
         TurnManager.AddUnit(this);
+        combatMenu = CombatMenu.Instance;
+    }
+
+    private void Start()
+    {
+        combatMenu = CombatMenu.Instance;
     }
 
     #region Tile System
@@ -116,6 +127,11 @@ public class TacticsMove : MonoBehaviour
                 }
             }
         }
+    }
+
+    protected void GoToState(States state)
+    {
+        this.state = state;
     }
 
     public void MoveToTile(Tile tile)
@@ -186,7 +202,7 @@ public class TacticsMove : MonoBehaviour
 
             //Add combat logic here, before end turn
             //sometimes you can just attack withough moving or defending, think about that
-            StartCoroutine(TestBattle());
+            Attacks();
 
             //if(!= isPlayer)
             //{
@@ -194,16 +210,11 @@ public class TacticsMove : MonoBehaviour
             //}
 
             //TurnManager.BattleTurn();
-            TurnManager.EndTurn();
+
         }
     }
 
-    IEnumerator TestBattle()
-    {
-        Debug.Log("Test Battlet");
-        yield return new WaitForSeconds(0.1f);
-        //TurnManager.EndTurn();
-    }
+    protected abstract void Attacks();
 
 
     protected void RemoveSelectableTiles()
@@ -438,14 +449,13 @@ public class TacticsMove : MonoBehaviour
     #endregion
 
 
-
     public void BeginTurn()
     {
-        turn = true;
+        GoToState(States.MoveCalculation);
     }
 
-    public void EndTurn()
-    {
-        turn = false;
-    }
+    //public void EndTurn()
+    //{
+    //    GoToState(States.Standby);
+    //}
 }

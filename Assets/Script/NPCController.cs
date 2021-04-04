@@ -13,16 +13,18 @@ public class NPCController : TacticsMove
         Init();
 	}
 	
+   
+
 	void Update () 
 	{
         Debug.DrawRay(transform.position, transform.forward);
 
-        if (!turn)
+        if (state == States.Standby)
         {
             return;
         }
 
-        if (!moving)
+        if (state == States.MoveCalculation)
         {
             FindNearestTarget();
             CalculatePath();
@@ -32,14 +34,13 @@ public class NPCController : TacticsMove
 
             //if(enemy in range random attack)
             //TurnManager.EndTurn();
+            GoToState(States.Move);
         }
-        else
+        else if (state == States.Move)
         {
             Move();
         }
     }
-
-
 
     void CalculatePath()
     {
@@ -71,5 +72,18 @@ public class NPCController : TacticsMove
         }
 
         target = nearest;
+    }
+
+    protected override void Attacks()
+    {
+        StartCoroutine(NPCAttack());
+    }
+
+    IEnumerator NPCAttack ()
+    {
+        GoToState(States.Combat);
+        yield return new WaitForSeconds(0.5f);
+        GoToState(States.Standby);
+        TurnManager.EndTurn();
     }
 }
