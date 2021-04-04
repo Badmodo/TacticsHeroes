@@ -54,7 +54,7 @@ public class CombatMenu : MonoBehaviour
     {
         //will be special attack with a enemry rating
         btnCallback2?.Invoke();
-        //Hide();
+        Hide();
     }
 
     public void PressedBtn3()

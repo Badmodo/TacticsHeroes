@@ -77,6 +77,7 @@ public class PlayerController : TacticsMove
     public IEnumerator attack()
     {
         //show tiles effected by attack, and alow to change rotation
+        RotationUI.SetActive(false);
 
         animator.SetBool("isIdle", false);
         animator.SetBool("isAttacking", true);
@@ -99,6 +100,7 @@ public class PlayerController : TacticsMove
     public IEnumerator attackSpecial()
     {
         //show tiles effected by attack, and alow to change rotation
+        RotationUI.SetActive(false);
 
         animator.SetBool("isIdle", false);
         animator.SetBool("isSpecialAttack", true);

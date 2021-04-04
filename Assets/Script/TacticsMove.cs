@@ -24,6 +24,7 @@ public abstract class TacticsMove : MonoBehaviour
     public int defense;
     public int specialAttack;
 
+    public GameObject RotationUI;
     public Image healthBar;
     public float maxHealth;
     public static float health;
@@ -230,18 +231,44 @@ public abstract class TacticsMove : MonoBehaviour
             animator.SetBool("isWalking", false);
             animator.SetBool("isIdle", true);
 
-            //Add combat logic here, before end turn
-            //sometimes you can just attack withough moving or defending, think about that
+            if (tag == "Player")
+            {
+                float rotate = 0;
+                //change roation before starting attack actions
+                RotationUI.SetActive(true);
+            }
+
             Attacks();
-
-            //if(!= isPlayer)
-            //{
-            //    ;
-            //}
-
-            //TurnManager.BattleTurn();
-
         }
+
+    }
+
+    public void TurnLeft()
+    {
+        int rotate = + 90;
+        StartCoroutine(Rotate(Vector3.up, rotate, 1.0f));
+    }
+
+    public void TurnRight()
+    {
+        int rotate = - 90;
+        StartCoroutine(Rotate(Vector3.up, rotate, 1.0f));
+    }
+
+    IEnumerator Rotate(Vector3 axis, float angle, float duration = 1.0f)
+    {
+        Quaternion from = transform.rotation;
+        Quaternion to = transform.rotation;
+        to *= Quaternion.Euler(axis * angle);
+
+        float elapsed = 0.0f;
+        while (elapsed < duration)
+        {
+            transform.rotation = Quaternion.Slerp(from, to, elapsed / duration);
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+        transform.rotation = to;
     }
 
     protected abstract void Attacks();
