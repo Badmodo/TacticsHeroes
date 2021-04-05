@@ -1,21 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class NPCController : TacticsMove 
 {
     //find nearest player tag unit
     GameObject target;
 
-	void Start () 
+    void Start () 
 	{
         //computes tiles and whatnot to turnmanager
         Init();
-	}
-	
-   
 
-	void Update () 
+    }
+
+    void Update () 
 	{
         Debug.DrawRay(transform.position, transform.forward);
 

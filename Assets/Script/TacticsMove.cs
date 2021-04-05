@@ -25,9 +25,6 @@ public abstract class TacticsMove : MonoBehaviour
     public int specialAttack;
 
     public GameObject RotationUI;
-    public Image healthBar;
-    public float maxHealth;
-    public static float health;
 
     public bool moving = false;
     public int move = 5;
@@ -68,32 +65,7 @@ public abstract class TacticsMove : MonoBehaviour
         combatMenu = CombatMenu.Instance;
         animator.SetBool("isIdle", true);
 
-        //add heath to the healthbar
-        healthBar = GetComponent<Image>();
-        health = maxHealth;
     }
-
-    private void Update()
-    {
-        healthBar.fillAmount = health / maxHealth;
-        //Mathf.Clamp(maxHealth, 0f, maxHealth);
-    }
-
-    public void TakeDamage(float amount)
-    {
-        health -= amount;
-
-        if (health <= 0f)
-        {
-            Die();
-        }
-    }
-
-    void Die()
-    {
-        Destroy(gameObject);
-    }
-
 
     #region Tile System
     public void GetCurrentTile()
@@ -233,7 +205,6 @@ public abstract class TacticsMove : MonoBehaviour
 
             if (tag == "Player")
             {
-                float rotate = 0;
                 //change roation before starting attack actions
                 RotationUI.SetActive(true);
             }

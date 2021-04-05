@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : TacticsMove
 {
@@ -14,6 +15,12 @@ public class PlayerController : TacticsMove
     void Update ()
     {
         Debug.DrawRay(transform.position, transform.forward);
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            Debug.Log("-Health");
+            HealthBar.health -= 1f;
+        }
 
         //move or cant move based on whos turn
         if (state == States.Standby)
@@ -29,6 +36,12 @@ public class PlayerController : TacticsMove
         {
             Move();
         }
+
+        //if (Input.GetButtonDown("Jump"))
+        //{
+        //    Debug.Log("Take Damage");
+        //    TakeDamage(1f);
+        //}
     }
 
     void CheckMouse()
@@ -65,6 +78,8 @@ public class PlayerController : TacticsMove
 
     protected void SkipTurn ()
     {
+        RotationUI.SetActive(false);
+
         GoToState(States.Standby);
         TurnManager.EndTurn();
     }
@@ -167,7 +182,7 @@ public class PlayerController : TacticsMove
     #endregion
 }
 
-internal class SelectionFieldAttribute : Attribute
-{
+//internal class SelectionFieldAttribute : Attribute
+//{
 
-}
+//}

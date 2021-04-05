@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class HealthBar : MonoBehaviour
 {
     Image healthBar;
-    public float maxHealth;
+    public float maxHealth = 10f;
     public static float health;
 
     private void Start()
@@ -18,6 +18,12 @@ public class HealthBar : MonoBehaviour
     private void Update()
     {
         healthBar.fillAmount = health / maxHealth;
+
+        //if (Input.GetButtonDown("Jump"))
+        //{
+        //    Debug.Log("-Health");
+        //    health -= 1f;
+        //}
     }
 
     public void TakeDamage(float amount)
