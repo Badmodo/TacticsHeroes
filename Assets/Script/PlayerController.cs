@@ -6,6 +6,14 @@ using UnityEngine.UI;
 
 public class PlayerController : TacticsMove
 {
+
+    public float maxHealth;
+
+    public float MaxHealth
+    {
+        get { return maxHealth; }
+    }
+
     void Start () 
 	{
         //from the parent Tactics move
