@@ -6,8 +6,8 @@ using UnityEngine.UI;
 public class HealthBar : MonoBehaviour
 {
     Image healthBar;
-    public static float health;
-    private float MaxHealth;
+    [HideInInspector]public float health;
+    [SerializeField]private float MaxHealth;
 
     private void Start()
     {

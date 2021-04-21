@@ -673,20 +673,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2aad065545539f1468f84cbd030120dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  healthBar: {fileID: 738559751056036275}
   turn: 0
   animator: {fileID: 8175195847559661849}
   attack: 5
   defense: 5
   specialAttack: 5
   RotationUI: {fileID: 1607014898}
-  healthBar: {fileID: 5612393441542295482}
-  maxHealth: 10
   moving: 0
   move: 5
   jumpHeight: 2
   moveSpeed: 2
   jumpVelocity: 4.5
   actualTargetTile: {fileID: 0}
+  maxHealth: 10
 --- !u!1001 &4856043259911250750
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -806,16 +806,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ad83f72ff2ac2a0438dc2fdc0bd3b823, type: 3}
---- !u!114 &5612393441542295482 stripped
+--- !u!114 &738559751056036275 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1046835695327177860, guid: ad83f72ff2ac2a0438dc2fdc0bd3b823,
+  m_CorrespondingSourceObject: {fileID: 5286035964129981069, guid: ad83f72ff2ac2a0438dc2fdc0bd3b823,
     type: 3}
   m_PrefabInstance: {fileID: 4856043259911250750}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Script: {fileID: 11500000, guid: a4a4420454fcf8745ab744c2aff67a0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!224 &4339483295438349006 stripped

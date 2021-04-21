@@ -8,7 +8,8 @@ public class DamageArea : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-            HealthBar.health -= 1f;            
+            TacticsMove tactics = other.gameObject.GetComponent<TacticsMove>();
+            tactics.healthBar.health -= 1f;            
         }
     }
 }

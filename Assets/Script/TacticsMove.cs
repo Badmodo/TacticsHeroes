@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public abstract class TacticsMove : MonoBehaviour 
 {
+    public HealthBar healthBar;
     public enum States { Standby, Move, Combat, MoveCalculation }
 
     public bool turn;

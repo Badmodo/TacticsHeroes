@@ -6,14 +6,6 @@ using UnityEngine.UI;
 
 public class PlayerController : TacticsMove
 {
-
-    public float maxHealth;
-
-    public float MaxHealth
-    {
-        get { return maxHealth; }
-    }
-
     void Start () 
 	{
         //from the parent Tactics move
@@ -23,12 +15,6 @@ public class PlayerController : TacticsMove
     void Update ()
     {
         Debug.DrawRay(transform.position, transform.forward);
-
-        if (Input.GetButtonDown("Jump"))
-        {
-            Debug.Log("-Health");
-            HealthBar.health -= 1f;
-        }
 
         //move or cant move based on whos turn
         if (state == States.Standby)
@@ -44,12 +30,6 @@ public class PlayerController : TacticsMove
         {
             Move();
         }
-
-        //if (Input.GetButtonDown("Jump"))
-        //{
-        //    Debug.Log("Take Damage");
-        //    TakeDamage(1f);
-        //}
     }
 
     void CheckMouse()
